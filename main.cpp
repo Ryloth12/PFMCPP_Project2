@@ -156,7 +156,7 @@ char randomizeAcronym(char firstLetter, char secondLetter, char thirdLetter = 'z
     ignoreUnused(firstLetter, secondLetter, thirdLetter);
     return {};
 }
-
+FIXME remove blank lines
 /*
  7)
  */
@@ -165,7 +165,7 @@ bool isGoodBoi(bool dog = true, bool playful = true)
     ignoreUnused(dog, playful);
     return{};
 }
-
+FIXME remove blank lines
 /*
  8)
  */
@@ -173,7 +173,7 @@ void songCatalog(int someSong = 5)
 {
     ignoreUnused(someSong);
 }
-
+FIXME remove blank lines
 /*
  9)
  */
@@ -182,7 +182,7 @@ void printCurrentGasInTank(int tankNumber)
     ignoreUnused(tankNumber);
 }
 
-
+FIXME remove blank lines
 /*
  10)
  */
@@ -199,27 +199,27 @@ int main()
     FIXME remove blank lines
     //1)
     setSalary(2000, 100, true);
-    
+    FIXME remove blank lines
     //2)
     getSalary();
     //3)
     howManyMiles(200, 50.552, 80.5);
-    
+    FIXME remove blank lines
     //4)
     isLying(120);
     //5)
     guessTheLetter('a');
-    
+    FIXME remove blank lines
     //6)
     randomizeAcronym('B', 'H', 'P');
-    
+    FIXME remove blank lines
     //7)
     isGoodBoi(true);
-    
+    FIXME remove blank lines
     //8)
     songCatalog();
     //9)
-    
+    FIXME remove blank lines
     //10)
     printCurrentGasInTank(2);
     
