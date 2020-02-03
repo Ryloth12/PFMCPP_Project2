@@ -196,7 +196,7 @@ int main()
 {
     //example of calling that function
     rentACar(6, 2); 
-    
+    FIXME remove blank lines
     //1)
     setSalary(2000, 100, true);
     
