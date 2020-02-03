@@ -208,6 +208,9 @@ int main()
     //8)
     songCatalog();
     //9)
+    bool isAwayFromKeyboard = isAfk(1, 2);
+
+    ignoreUnused(isAwayFromKeyboard);
     //10)
     printCurrentGasInTank(2);
     
